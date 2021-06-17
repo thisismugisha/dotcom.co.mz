@@ -81,6 +81,7 @@ body {
 	-webkit-transform: translate(-50%);
  	transform: translate(-50%);
  	font-weight: lighter;
+	font-size: 1.18vw;
 }
 
 .contacts div {
@@ -103,5 +104,5 @@ body {
 #under-construction {
 	width: 75px;
 	height: 75px;
-	margin-right: 2px;
+	margin: 0.2vw;
 }
